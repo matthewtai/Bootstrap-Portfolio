@@ -1,11 +1,13 @@
 #profilepic {
     opacity: 0.9;
     border-radius: 50%;
+
 }
 
 body {
     color: #fff;
     text-align: justify;
+    line-height: 34px;
     background: url("../images/navy_blue.png");
 }
 
@@ -30,6 +32,8 @@ footer {
     border-top: 8px solid #f38630;
     width: 100%;
     margin-top: 20px;
+   
+    bottom: 0;
 }
 
 #instagram{
