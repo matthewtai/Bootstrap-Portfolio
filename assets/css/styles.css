@@ -1,0 +1,37 @@
+#profilepic {
+    opacity: 0.9;
+    border-radius: 50%;
+}
+
+body {
+    color: #fff;
+    text-align: justify;
+    background: url("../images/navy_blue.png");
+}
+
+
+
+
+h1 {
+    color: #f38630;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+}
+
+footer {
+    padding: 20px 0;
+    font-size: 12px;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #f38630;
+    width: 100%;
+    margin-top: 20px;
+}
+
+#instagram{
+    justify-content: center;
+}
