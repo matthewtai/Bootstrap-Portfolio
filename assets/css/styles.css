@@ -39,14 +39,9 @@ footer {
 #instagram{
     justify-content: center;
 }
-.card{
-    background-color: #ff62006b;
-    text-align:center;
-   
-}
 
 #animation{
- 
+    text-align: center;
     animation: fadein 2s;
     -moz-animation: fadein 2s; /* Firefox */
     -webkit-animation: fadein 2s; /* Safari and Chrome */
@@ -84,3 +79,4 @@ footer {
         opacity: 0.9;
     }
 }
+
