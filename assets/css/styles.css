@@ -36,6 +36,10 @@ footer {
     bottom: 0;
 }
 
+#footerport{
+    position: fixed;
+    bottom: 0;
+}
 .card{
     background-color: #f38530a9;   
     text-align: center;
