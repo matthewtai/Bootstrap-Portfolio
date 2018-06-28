@@ -32,7 +32,6 @@ footer {
     border-top: 8px solid #f38630;
     width: 100%;
     margin-top: 20px;
-   
     bottom: 0;
 }
 
@@ -41,6 +40,7 @@ footer {
 .card{
     background-color: #f38530a9;   
     text-align: center;
+    margin: 10px;
 }
 #instagram{
     justify-content: center;
