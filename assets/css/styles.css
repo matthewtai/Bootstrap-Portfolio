@@ -11,7 +11,9 @@ body {
     background: url("../images/navy_blue.png");
 }
 
-
+#text p{
+    margin:10px;
+}
 
 
 h1 {
