@@ -88,6 +88,7 @@ footer {
     }
 }
 
+<<<<<<< HEAD
 /* contact */
 /* Global */
 
@@ -410,4 +411,8 @@ footer hr {
 	color: #c3c3c3;
 	top: 145px;
 	left: -315px;
+=======
+.portcard{
+   margin-left: 3em;
+>>>>>>> b64b6ceec50fd2805839ccee854785e1674e95b3
 }
