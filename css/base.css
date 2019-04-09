@@ -32,7 +32,10 @@
  * github.com/necolas/normalize.css
  *
  * ------------------------------------------------------------------- */
+.linkk a{
+    color: darkgray;
 
+}
 html {
     font-family: sans-serif;
     line-height: 1.15;
